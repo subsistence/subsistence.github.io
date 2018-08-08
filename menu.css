@@ -20,6 +20,7 @@
     background-attachment: fixed;
     background-position: center; 
     background-size: 40%;
-    opacity: 0.3;
+    background-color: #bfbab7;
+    opacity: 0.4;
     z-index: -1;
 }
